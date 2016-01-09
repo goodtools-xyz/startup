@@ -7,10 +7,13 @@ html{
 #wrapper {
 	margin: 0 auto;
 	}
+	
+header {
+margin:0 auto;
+}
 #header	{
 	height: 50px;
 	border-bottom: thin solid #E0E0E0;
-	/*E0E0E0*/
 	padding: 5px;
 }
 
@@ -46,6 +49,11 @@ ul,li {
 	padding:0px;
 	margin:0px;
 }
+#selection	{
+	margin:0 auto;
+	padding:5px;
+	height:100px;
+}
 
 #industry,#role,#top20	{
 	float:left;
@@ -64,17 +72,20 @@ ul,li {
 
 #role {
 	text-align:left;
-	width:25%;
+	width:20%;
 	margin-right:20px;
 	background-color: #FFEB63;
 }
 #top20 {
 	text-align:left;
-	width:48%;
-	float:right;
+	width:53%;
 	background-color: #70C9FF;
 }
 
+#top20 td {
+	width:100px;
+	line-height:30px;
+}
 
 	
 section {
@@ -84,26 +95,15 @@ section {
 	margin-top: 40px;
 	max-width:1200px;
 	text-align: center;
+	/*border:1px solid black;*/
 }
 
-/*
-#Baidu {
-	padding-top: 30px;
-	padding-right: auto;
-	padding-left: auto;
-	padding-bottom: 30px;
-	background-color: #F0F0F0;
-	border: 1px solid black;
-	}
-*/
 
 #office {
 	text-align: center;
 	margin: auto;
 	line-height: 30px;
-	float:none;
-	
-}
+	}
 
 th,td {
 	cellspacing: 0px;
@@ -139,8 +139,6 @@ th {
 	background-color:#F6F6F6;
 }
 
-td { 
-}
 
 /*Hightlight the cell*/
 .cellhightlight
@@ -178,8 +176,10 @@ footer {
 	padding: 10px;
 	text-align: center;
 	background-color: #F6F6F6;
-	border-top-width: thin;
-	border-top-style: solid;
+	border-top: thin solid #E0E0E0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
 	}
 	
 	#footer li{
@@ -192,9 +192,17 @@ footer {
 @media screen and (max-width:1536px) and (orientation:portrait){
 	body {
 	margin:0 auto;
-	min-width:1536px;
+}
+section {
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	max-width:2048px;
+	text-align: center;
 }
 }
+
 /*iphone 6 1334*750 */
 @media screen and (max-width:750px){
 	body {
