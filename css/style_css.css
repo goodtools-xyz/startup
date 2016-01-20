@@ -5,12 +5,17 @@ html{
 }
 
 #wrapper {
-	margin: 0 auto;
+	margin: 0px;
+	min-width:800px;
 	}
 	
 header {
-margin:0 auto;
-}
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+ 	min-width:800px;
+ 	}
 #header	{
 	height: 50px;
 	border-bottom: thin solid #E0E0E0;
@@ -53,7 +58,7 @@ ul,li {
 	margin:0 auto;
 	padding:0;
 	height:110px;
-	width:1200px;
+	width:auto;
 }
 
 #industry,#role,#top20	{
@@ -113,7 +118,7 @@ section {
 	margin-bottom: 40px;
 	margin-top: 40px;
 	text-align: center;
-	max-width:1200px;
+	/*max-width:1200px;*/
 	/*border:1px solid black;*/
 }
 
@@ -121,7 +126,7 @@ section {
 #office {
 	text-align: center;
 	margin: auto;
-	max-width:1200px;
+	/*max-width:1200px;*/
 	line-height: 30px;
 	}
 
@@ -196,12 +201,13 @@ footer {
 	text-align: center;
 	background-color: #F6F6F6;
 	border-top: thin solid #E0E0E0;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 0;
+	margin-right: 0;
 	margin-bottom: auto;
+	clear:both;
 	}
 	
-	#footer li{
+	footer li{
 		list-style:none;
 		display:inline;
 		margin:10px;
