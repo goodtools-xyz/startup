@@ -23,7 +23,7 @@
     <ui>
     <a href="../wordpress/index.php" target="_blank"> 个人博客 </a></ui>
     <ui>
-    <a href="../record.html">建站日志</a>
+    <a href="../record/record.html">建站日志</a>
     </ui>
 </header>
 
@@ -31,9 +31,9 @@
   <div>
     <nav>
       <ul>
-        <li><a href="../c/toolcategory.html">Tool Category 标准产品分类目录表</a></li>
-        <li><a href="../r/rolecategory.html">Role Category 人员角色目录表</a></li>
-        <li><a href="../i/certification.html">Certification 注册认证</a></li>
+        <li><a href="../cn/c/toolcategory.html">Tool Category 标准产品分类目录表</a></li>
+        <li><a href="../cn/r/rolecategory.html">Role Category 人员角色目录表</a></li>
+        <li><a href="../cn/i/certification.html">Certification 注册认证</a></li>
         <li><a href="../link.html">Link 友情链接</a></li>
       </ul>
     </nav>

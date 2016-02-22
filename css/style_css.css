@@ -89,6 +89,7 @@ ul,li {
 	width:110px;
 	line-height:30px;
 }
+
 #industry,#role li {
 	list-style:none;
 	}
@@ -97,6 +98,8 @@ ul,li {
 	margin:auto;
 	background-color: #FF7953;
 	padding:10px;
+	height:220px;
+	font-size:16px;
 	/*居中显示
 	line-height:80px;
 	overflow:hidden;
@@ -110,7 +113,16 @@ ul,li {
 #advertisement h3 {
 	color:gold;
 	margin:auto;
-	}				
+	}		
+	
+#hot1,#hot2,#hot3,#hot4{
+	width: 25%;
+	float: left;
+	margin: 0px;
+	border-collapse: collapse;
+	-webkit-box-shadow: 0px 0px 0px 1px #FFD700;
+	box-shadow: 0px 0px 0px 1px #FFD700;
+}
 		
 section {
 	margin-right: auto;
@@ -143,7 +155,7 @@ th,td {
   
 
 table {
-	word-break: keep-all;
+	word-break:!important;
 	/*
 	background-color: fafafa;
 	-webkit-box-shadow: 8px -2px;
@@ -175,7 +187,7 @@ th {
 	}
 
 a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: black;
 	margin-left: auto;
 	margin-right: auto;
