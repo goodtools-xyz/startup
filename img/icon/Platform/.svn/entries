@@ -10,8 +10,8 @@ add
 
 
 
-
-
+has-props
+has-prop-mods
 
 
 
@@ -40,7 +40,7 @@ add
 has-props
 has-prop-mods
 
-IE11.png
+linux.png
 file
 
 
@@ -54,7 +54,7 @@ add
 has-props
 has-prop-mods
 
-linux.png
+IE11.png
 file
 
 
@@ -96,7 +96,7 @@ add
 has-props
 has-prop-mods
 
-Windows Icons_Mobile_430x70.png
+firefox.png
 file
 
 
@@ -124,7 +124,7 @@ add
 has-props
 has-prop-mods
 
-firefox.png
+Windows Icons_Mobile_430x70.png
 file
 
 
@@ -152,7 +152,7 @@ add
 has-props
 has-prop-mods
 
-Icon_iPhone_33x69.png
+Icon_iPad_84x59.png
 file
 
 
@@ -166,7 +166,7 @@ add
 has-props
 has-prop-mods
 
-Icon_iPad_84x59.png
+Icon_iPhone_33x69.png
 file
 
 

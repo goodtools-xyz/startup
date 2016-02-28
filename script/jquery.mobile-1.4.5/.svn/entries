@@ -10,8 +10,8 @@ add
 
 
 
-
-
+has-props
+has-prop-mods
 
 
 
@@ -96,20 +96,6 @@ add
 has-props
 has-prop-mods
 
-jquery.mobile.inline-svg-1.4.5.css
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
 jquery.mobile.icons-1.4.5.css
 file
 
@@ -124,7 +110,21 @@ add
 has-props
 has-prop-mods
 
-jquery.mobile.inline-png-1.4.5.min.css
+jquery.mobile.inline-svg-1.4.5.css
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+jquery.mobile.structure-1.4.5.min.css
 file
 
 
@@ -152,7 +152,7 @@ add
 has-props
 has-prop-mods
 
-jquery.mobile.structure-1.4.5.min.css
+jquery.mobile.inline-png-1.4.5.min.css
 file
 
 

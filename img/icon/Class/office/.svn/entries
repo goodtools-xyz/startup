@@ -10,8 +10,8 @@ add
 
 
 
-
-
+has-props
+has-prop-mods
 
 
 
@@ -26,19 +26,12 @@ add
 
 1d8f92b6-8bb9-f1db-f3c4-ce57b7db7bff
 
-OneDrive.gif
+icon-skype.svg
 file
 
 
 
 add
-
-
-
-
-
-has-props
-has-prop-mods
 
 Word.gif
 file
@@ -54,12 +47,19 @@ add
 has-props
 has-prop-mods
 
-icon-skype.svg
+OneDrive.gif
 file
 
 
 
 add
+
+
+
+
+
+has-props
+has-prop-mods
 
 icon-outlook.svg
 file
@@ -138,14 +138,14 @@ file
 
 add
 
-icon-onedrive.svg
+icon-word.svg
 file
 
 
 
 add
 
-icon-word.svg
+icon-onedrive.svg
 file
 
 

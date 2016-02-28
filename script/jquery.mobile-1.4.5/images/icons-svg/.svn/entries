@@ -10,8 +10,8 @@ add
 
 
 
-
-
+has-props
+has-prop-mods
 
 
 
@@ -54,7 +54,7 @@ add
 has-props
 has-prop-mods
 
-tag-black.svg
+alert-white.svg
 file
 
 
@@ -68,7 +68,7 @@ add
 has-props
 has-prop-mods
 
-alert-white.svg
+tag-black.svg
 file
 
 
@@ -96,7 +96,7 @@ add
 has-props
 has-prop-mods
 
-bullets-white.svg
+gear-black.svg
 file
 
 
@@ -110,7 +110,7 @@ add
 has-props
 has-prop-mods
 
-gear-black.svg
+bullets-white.svg
 file
 
 
@@ -180,7 +180,7 @@ add
 has-props
 has-prop-mods
 
-recycle-black.svg
+mail-white.svg
 file
 
 
@@ -194,7 +194,7 @@ add
 has-props
 has-prop-mods
 
-mail-white.svg
+recycle-black.svg
 file
 
 
@@ -586,20 +586,6 @@ add
 has-props
 has-prop-mods
 
-carat-r-black.svg
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
 arrow-u-l-white.svg
 file
 
@@ -614,7 +600,7 @@ add
 has-props
 has-prop-mods
 
-arrow-u-black.svg
+carat-r-black.svg
 file
 
 
@@ -642,6 +628,20 @@ add
 has-props
 has-prop-mods
 
+arrow-u-black.svg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
 arrow-r-white.svg
 file
 
@@ -656,7 +656,7 @@ add
 has-props
 has-prop-mods
 
-arrow-u-r-white.svg
+info-white.svg
 file
 
 
@@ -670,7 +670,7 @@ add
 has-props
 has-prop-mods
 
-info-white.svg
+arrow-u-r-white.svg
 file
 
 
@@ -754,7 +754,7 @@ add
 has-props
 has-prop-mods
 
-bullets-black.svg
+video-white.svg
 file
 
 
@@ -768,7 +768,7 @@ add
 has-props
 has-prop-mods
 
-video-white.svg
+bullets-black.svg
 file
 
 
@@ -824,7 +824,7 @@ add
 has-props
 has-prop-mods
 
-mail-black.svg
+gear-white.svg
 file
 
 
@@ -838,7 +838,7 @@ add
 has-props
 has-prop-mods
 
-gear-white.svg
+mail-black.svg
 file
 
 

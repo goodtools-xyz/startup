@@ -10,8 +10,8 @@ add
 
 
 
-
-
+has-props
+has-prop-mods
 
 
 
@@ -215,7 +215,7 @@ add
 has-props
 has-prop-mods
 
-Icon_AndroidPhone_40x78.png
+OneDrive.gif
 file
 
 
@@ -229,7 +229,7 @@ add
 has-props
 has-prop-mods
 
-OneDrive.gif
+Icon_AndroidPhone_40x78.png
 file
 
 
@@ -306,7 +306,7 @@ add
 has-props
 has-prop-mods
 
-Icon_iPhone_33x69.png
+Icon_iPad_84x59.png
 file
 
 
@@ -320,7 +320,7 @@ add
 has-props
 has-prop-mods
 
-Icon_iPad_84x59.png
+Icon_iPhone_33x69.png
 file
 
 
@@ -348,7 +348,7 @@ add
 has-props
 has-prop-mods
 
-Outlook.gif
+chrome.png
 file
 
 
@@ -362,7 +362,7 @@ add
 has-props
 has-prop-mods
 
-chrome.png
+Outlook.gif
 file
 
 
@@ -418,7 +418,7 @@ add
 has-props
 has-prop-mods
 
-Android Icons_Mobile_430x70.png
+Oneonte.gif
 file
 
 
@@ -432,7 +432,7 @@ add
 has-props
 has-prop-mods
 
-Oneonte.gif
+Android Icons_Mobile_430x70.png
 file
 
 
